@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "target": "es2019",
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true
+  }
+}
